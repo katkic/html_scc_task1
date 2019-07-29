@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+.contact tr {
+  height: 7rem;
+}
+
+.contact th {
+  width: 150px;
+  text-align: right;
+  padding-right: 10px;
+}
+
+.contact td {
+  padding: 0;
+}
+
+.input_width {
+  width: 480px;
+}
+
+.button {
+  width: 50px;
+  background-color: cornflowerblue;
+  color: #fff;
+  width: 60px;
+  height: 30px;
+}
+
+.button:hover {
+  opacity: 0.6;
+}
+
+.button_center {
+  text-align: center;
+}
