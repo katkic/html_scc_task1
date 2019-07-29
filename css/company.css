@@ -1,0 +1,24 @@
+.company {
+  border-collapse: collapse;
+}
+
+.company tr {
+  height: 5rem;
+}
+
+.company th {
+  width: 100px;
+  background-color: #b1b1b1;
+  color: #fff;
+  border-bottom: 1px solid #fff;
+}
+
+.company tr:last-child th {
+  border-color: #b1b1b1;
+}
+
+.company td {
+  width: 560px;
+  padding-left: 1rem;
+  border: 1px solid #b1b1b1
+}
