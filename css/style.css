@@ -65,6 +65,7 @@ ul.top_menu {
 
 .image_area {
   width: 100%;
+  vertical-align: top;
 }
 
 .wrapper {

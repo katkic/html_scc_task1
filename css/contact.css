@@ -20,11 +20,16 @@
   width: 480px;
 }
 
+textarea {
+  height: 7rem;
+}
+
 .button {
   background-color: cornflowerblue;
   color: #fff;
   width: 60px;
   height: 30px;
+  margin-top: 20px;
 }
 
 .button:hover {
